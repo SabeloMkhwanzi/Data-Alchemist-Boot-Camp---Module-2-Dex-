@@ -37,6 +37,5 @@
 ##### 3. Revenue
 ![Pools TVL ](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp-Module-2-Dex-/blob/main/Revenue%20-%20TVL%20(USD)%20-%20FTM-ETH%20pair%20on%20Sushiswap%20Fantom%202022-11-23%20.jpg)
 ![Pools TVL](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp-Module-2-Dex-/blob/main/Revenue%20-%20Pools%20Volume%20-%20FTM-WETH%20Pool%20on%20Uniswap%20V2%20(Fantom)%202022-11-23%20.jpg)
-![Pools Volume](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp-Module-2-Dex-/blob/main/Revenue%20-%20Pools%20Volume%20-%20FTM-WETH%20Pool%20on%20Uniswap%20V2%20(Fantom)%202022-11-23%20.jpg)
 ![ Median LP liquidity provided over time](https://github.com/SabeloMkhwanzi/Data-Alchemist-Boot-Camp-Module-2-Dex-/blob/main/Revenue%20-%20Liquidity%20Utilization%20Over%20FTM-ETH%20Uniswap%202022-11-23.jpg)
 
